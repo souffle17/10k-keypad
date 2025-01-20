@@ -2,6 +2,8 @@
 
 A 2x5 mechanical keypad circuit and PCB. The second row is made to support hall-effect switches with variable input, similar to those on rapid trigger/wooting keyboards, in addition to normal switches.          
 
+Firmware found here: https://github.com/souffle17/10k-keypad-firmware          
+
 Footprint "SW_MX_HS_CPG151101S11_1u_no_center" is modified from marbastlib's "SW_MX_HS_CPG151101S11_1u"
 
 ### Helpful resources:
